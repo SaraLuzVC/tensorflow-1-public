@@ -27,3 +27,23 @@ C1 W4
 * https://www.cs.toronto.edu/~tijmen/csc321/slides/lecture_slides_lec6.pdf
 * https://www.tensorflow.org/api_docs/python/tf/keras/optimizers/RMSprop
 * https://www.youtube.com/watch?v=eqEc66RFY0I
+
+C2 W1
+
+* https://community.deeplearning.ai/t/tf1-course-2-lecture-notes/124229
+* https://www.kaggle.com/c/dogs-vs-cats
+
+C2W2
+
+* https://keras.io/api/layers/preprocessing_layers/
+* https://keras.io/api/layers/preprocessing_layers/image_augmentation/
+
+C2W3
+
+* https://www.youtube.com/watch?v=ARq74QuavAo
+
+C2W4
+
+* https://storage.googleapis.com/tensorflow-1-public/course2/week4/rps.zip
+* https://storage.googleapis.com/tensorflow-1-public/course2/week4/rps-test-set.zip
+* https://storage.googleapis.com/tensorflow-1-public/course2/week4/rps-validation.zip
