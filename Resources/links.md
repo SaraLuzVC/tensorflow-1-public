@@ -47,3 +47,27 @@ C2W4
 * https://storage.googleapis.com/tensorflow-1-public/course2/week4/rps.zip
 * https://storage.googleapis.com/tensorflow-1-public/course2/week4/rps-test-set.zip
 * https://storage.googleapis.com/tensorflow-1-public/course2/week4/rps-validation.zip
+
+C3W1
+
+* https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/home
+
+C3W2
+
+* http://ai.stanford.edu/~amaas/data/sentiment/
+* https://www.tensorflow.org/datasets/catalog/overview
+* https://keras.io/keras_nlp/
+* https://keras.io/api/keras_nlp/tokenizers/word_piece_tokenizer/
+* https://keras.io/api/keras_nlp/tokenizers/compute_word_piece_vocabulary/
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/37842.pdf
+* https://arxiv.org/abs/2012.15524
+
+C3W3
+
+* https://www.coursera.org/lecture/nlp-sequence-models/deep-rnns-ehs0S
+
+* https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
+
+C3W4
+
+* https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/misc/Laurences_generated_poetry.txt
