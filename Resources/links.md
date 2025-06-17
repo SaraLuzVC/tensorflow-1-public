@@ -76,3 +76,11 @@ C4
 
 * https://en.wikipedia.org/wiki/Huber_loss
 * https://www.coursera.org/lecture/nlp-sequence-models/long-short-term-memory-lstm-KXoay
+* https://www.coursera.org/learn/convolutional-neural-networks/home/welcome
+* https://www.youtube.com/watch?v=4qJaSmvhxi8
+* https://www.kaggle.com/datasets/robervalt/sunspots
+* https://bit.ly/3ojuT1o
+* https://bit.ly/39iAsZQ
+
+* https://forms.gle/YHBfNquA8W4NA6TU8
+
