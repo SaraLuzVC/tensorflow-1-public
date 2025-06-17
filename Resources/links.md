@@ -71,3 +71,7 @@ C3W3
 C3W4
 
 * https://github.com/https-deeplearning-ai/tensorflow-1-public/blob/main/C3/W4/misc/Laurences_generated_poetry.txt
+
+C4
+
+* https://en.wikipedia.org/wiki/Huber_loss
